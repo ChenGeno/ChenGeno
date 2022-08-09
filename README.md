@@ -1,8 +1,8 @@
-- 👋 你好，我是陈戈诺
-- 👀 我喜欢解决问题，也喜欢产品设计
-- 🌱 目前计算机研究生在读
-- 💞️ 如果你有有意思的问题或项目需要帮助，欢迎联系我
-- 📫 我的邮箱是`912850588@qq.com`
+- 👋 Hello, I'm Gunnar Chen
+- 👀 I love problem solving and product design
+- 🌱 Graduate student in Computer Science Department
+- 💞️ If you have an interesting question or need help with a project, please feel free to contact me
+- 📫 My email address is `912850588@qq.com`
 
 <!---
 ChenGeno/ChenGeno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
